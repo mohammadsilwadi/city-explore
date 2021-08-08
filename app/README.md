@@ -22,12 +22,12 @@
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 Name of feature:
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2hr
 
-Start time: _____
+Start time: 3 pm
 
-Finish time: _____
+Finish time: 6 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 3hr
 
 ![work flow img](https://cdn.discordapp.com/attachments/873892393747894272/873900419540209704/Screenshot_440.png)
